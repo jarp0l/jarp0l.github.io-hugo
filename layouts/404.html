@@ -1,0 +1,20 @@
+{{- define "main" }}
+<div class="not-found">404 🥺</div>
+<div class="not-found-subtitle">
+    If you don't leave in <span id="countdown">...</span> seconds, I'll show you
+    magic!
+</div>
+
+<script>
+    let el = document.getElementById("countdown");
+    let t = 10;
+    let c = setInterval(() => {
+        el.textContent = t--;
+        if (t < 0) {
+            clearInterval(c);
+            el.textContent = "😎";
+            window.location.href = "https://youtu.be/5nXeDuQXXSE";
+        }
+    }, 1000);
+</script>
+{{- end }}{{/* end main */ -}}
