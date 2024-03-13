@@ -29,7 +29,7 @@ menu:
 params:
   env: production
   title: ":shrug:"
-  DateFormat: "January 1, 2006"
+  # DateFormat: "January 01, 2006"
   defaultTheme: auto
 
   mainSections: ["posts", "writeups"]
@@ -78,3 +78,9 @@ markup:
     # guessSyntax: true
     lineNos: true
     style: catppuccin-frappe
+    guessSyntax: true
+
+  tableOfContents: # enabled by useHugoToc
+    startLevel: 1 # from h1
+    endLevel: 3 # upto h3
+    ordered: false
