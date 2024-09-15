@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./static/images",
+  "showLineNumber": false,
+  "trashOption": "local",
+  "useMarkdownLinks": true
+}
