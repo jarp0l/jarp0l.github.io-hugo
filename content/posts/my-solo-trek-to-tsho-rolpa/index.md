@@ -162,7 +162,7 @@ My travel partners were perfectly fine, so they continued their trek to Dudhkund
 
 It felt like a long day. There was no Internet, no cell network, and no books. Luckily, it snowed in the afternoon, which made the whole ambiance even prettier. The hotel was near a mountain, so the scene was already beautiful. With the snow, many of the hills were covered in white. I simply can't explain with words how peaceful and awesome it felt.
 
-Following Pembda dai’s advice, I spent the morning and evening walking up and down to help acclimatize. I made several trips to lower altitudes and even pushed myself to slightly higher elevations. Although I felt better than the previous day, dizziness still hit whenever I climbed higher. There were moments when I seriously considered turning back, but my determination to reach Tsho Rolpa kept me moving forward.
+Following Pemba dai’s advice, I spent the morning and evening walking up and down to help acclimatize. I made several trips to lower altitudes and even pushed myself to slightly higher elevations. Although I felt better than the previous day, dizziness still hit whenever I climbed higher. There were moments when I seriously considered turning back, but my determination to reach Tsho Rolpa kept me moving forward.
 
 That evening, I spent time with Pemda dai and his family and a few others. We chatted about all kinds of things—my hometown in Parbat, their expeditions to nearby tourist destinations, their lifestyle and culture, etc.. I was able to really open up and share my own stories. It turned into a memorable evening.
 
@@ -289,7 +289,7 @@ Only later did I realize I’d forgotten my spare t-shirt at the hotel in Naa. W
 
 | ![Me!](images/day5/20240507_082429.jpg) | ![Screenshot from Gaia GPS app](images/day5/Screenshot_20240507_084949_Gaia%20GPS.png) |
 | :-------------------------------------: | -------------------------------------------------------------------------------------- |
-| *That's me, but I'm not photogenic person*  | *Screenshot from Gaia GPS app*                                                         |
+| *That's me, but I'm not much of a photogenic person 😄*  | *Screenshot from Gaia GPS app*                                                         |
 
 ![](images/day5/20240507_084332.jpg)
 
@@ -398,4 +398,4 @@ I still hope to reach Rara one day and learn about the lives of the people there
 
 ---
 
-*Apologies for some unnecessary photos, poor photography skills, and maybe poor way of expressing about my journey. But hope you enjoyed it nonetheless. If you have any feedback or suggestions or comments, I would love to read them, please mail them at jarp0l [at] proton [dot] me!*
+*Apologies for some unnecessary photos, poor photography skills, no filters applied, and maybe poor way of expressing about my journey. But hope you enjoyed it nonetheless. If you have any feedback or suggestions or comments, I would love to read them, please mail them at jarp0l [at] proton [dot] me!*
