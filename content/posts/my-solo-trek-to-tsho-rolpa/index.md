@@ -398,4 +398,4 @@ I still hope to reach Rara one day and learn about the lives of the people there
 
 ---
 
-*Apologies for some unnecessary photos, poor photography skills, no filters applied, and maybe poor way of expressing about my journey. But hope you enjoyed it nonetheless. If you have any feedback or suggestions or comments, I would love to read them, please mail them at jarp0l [at] proton [dot] me!*
+*Hope you enjoyed it. If you have any feedback or suggestions or comments, I would love to read them, please mail them at jarp0l [at] proton [dot] me!*
