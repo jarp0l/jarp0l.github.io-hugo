@@ -6,6 +6,7 @@
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
+      "update-theme": "git submodule update --remote --merge",
       "test": [
         "echo \"Error: no test specified\" && exit 1"
       ]
